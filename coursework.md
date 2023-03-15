@@ -31,6 +31,7 @@ A lot has changed in their salary formula over the past few years. They took a v
 ### Salary formula
 
 ![Buffer formula](Salary%20formula.png)
+source: https://buffer.com/salaries
 
 ---
 
