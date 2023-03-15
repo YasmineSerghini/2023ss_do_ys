@@ -11,7 +11,12 @@ Yasmine Serghini
 ## Who?
 
 Buffer ![LOGO B](Buffer-Logo.png)
+source: https://www.vectorlogo.zone/logos/buffer/index.html
+
+---
+
 Sipgate ![LOGO S](Sipgate-Logo.wine.png)
+source: https://de.m.wikipedia.org/wiki/Datei:Sipgate.svg
 
 ---
 
@@ -35,13 +40,19 @@ A lot has changed in their salary formula over the past few years. They took a v
 
 We openly share our approach and all salaries to create trust, hold ourselves accountable, and serve as a resource for the industry.
 
+---
+
 #### Simplicity:
 
 We aim to maintain an easy-to-understand formula that allows anyone to easily see how we arrive at any individual salary.
 
+---
+
 #### Fairness:
 
 We ensure that those with the same role and responsibilities who are at the same experience level are paid equitably.
+
+---
 
 #### Generosity:
 
