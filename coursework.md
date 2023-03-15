@@ -10,12 +10,12 @@ Yasmine Serghini
 
 ## Who?
 
-![LOGO B](Buffer-Logo.png)
+![Logo Buffer](Buffer-Logo.png)
 source: https://www.vectorlogo.zone/logos/buffer/index.html
 
 ---
 
-![LOGO S](Sipgate-Logo.wine.png)
+![Logo Sipgate](Sipgate%20Logo.jpg)
 source: https://de.m.wikipedia.org/wiki/Datei:Sipgate.svg
 
 ---
