@@ -67,4 +67,4 @@ information still to come....
 
 ---
 
-Thank you!
+Thank you!&#10084;
