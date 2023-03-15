@@ -39,30 +39,32 @@ source: https://buffer.com/salaries
 
 #### Transparency:
 
-We openly share our approach and all salaries to create trust, hold ourselves accountable, and serve as a resource for the industry.
+Openly share the approach and all salaries to create trust, hold themselves accountable, and serve as a resource for the industry.
 
 ---
 
 #### Simplicity:
 
-We aim to maintain an easy-to-understand formula that allows anyone to easily see how we arrive at any individual salary.
+Aim to maintain an easy-to-understand formula that allows anyone to easily see how they arrive at any individual salary.
 
 ---
 
 #### Fairness:
 
-We ensure that those with the same role and responsibilities who are at the same experience level are paid equitably.
+Ensure that those with the same role and responsibilities who are at the same experience level are paid equitably.
 
 ---
 
 #### Generosity:
 
-We pay above market to attract the team we need, thrive as individuals, and avoid exceptions and inequity resulting from negotiation.
+Pay above market to attract the team they need, thrive as individuals, and avoid exceptions and inequity resulting from negotiation.
 
 ---
 
 ## Sipgate
 
+information still to come....
+
 ---
 
-Thank you!
+Thank you! <3
