@@ -115,6 +115,30 @@ Overall, while Buffer's salary system has many advantages, it may not be a perfe
 
 ---
 
+### Feedback
+
+Since Buffer is known for its transparent approach to compensation, many employees have openly shared their thoughts and experiences with the system. Overall, feedback on the Buffer salary system has been mixed.
+
+---
+
+#### Positive feedback
+
+Some employees have praised the Buffer salary system for its transparency and fairness. They appreciate being able to see how their compensation is calculated and feel that the system values their contributions to the company. Some have also reported feeling more motivated and engaged at work because they know they are being fairly compensated.
+
+---
+
+#### Negative feedback
+
+Other employees have expressed concerns about the complexity of the Buffer salary system and its potential biases. Some have found it difficult to understand how their compensation is determined, while others feel that the system undervalues certain skills or experience. There have also been reports of some employees leaving the company due to dissatisfaction with their compensation.
+
+---
+
+#### External feedback
+
+Some observers outside of the company have also shared their thoughts on the Buffer salary system. For example, some experts have praised the company for its innovative approach to compensation, while others have expressed concerns about the potential for biases or the limitations of the formulaic approach.
+
+---
+
 ## Sipgate
 
 Sipgate is a telecommunications company based in Germany that offers voice over IP (VoIP) services to individuals and businesses. Sipgate has a competitive compensation package that includes a base salary, performance-based bonuses, and benefits such as health insurance, retirement savings plans, and flexible work arrangements.
@@ -227,6 +251,7 @@ Overall, Sipgate's salary model was positively received when it was introduced i
 - https://hbr.org/2016/12/buffers-radical-transparency-can-it-work-for-your-company
 - https://www.businessinsider.com.au/how-buffer-salary-formula-works-2015-8
 - https://www.fastcompany.com/3059627/why-buffer-is-paying-all-employees-the-same-salary
+- https://www.glassdoor.com/Reviews/Buffer-Reviews-E941992.htm
 
 ---
 
