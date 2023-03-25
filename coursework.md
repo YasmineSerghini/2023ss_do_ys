@@ -84,26 +84,87 @@ Sipgate is known for its employee-centric culture, and it is likely that the com
 
 #### Never negotiate salaries again
 
-Compensation at sipgate is market-based, not based on individual negotiating skills. Therefore, there are no individual salary negotiations. However, everyone receives their individual salary. Those who perform similar work are paid similarly, but individual experience and company tenure also count. Compensation is automatically calculated each year using a simple formula based on the same objective criteria.
+At Sipgate, compensation is determined by the market value of a particular role, rather than an individual's negotiating skills. This means that there are no individual salary negotiations. However, every employee receives a salary that is based on their individual experience and tenure with the company. Similar work is compensated similarly, but with consideration for individual experience and time spent with the company. Additionally, compensation is calculated each year using a simple formula based on objective criteria.
 
 ---
 
 #### The overall package is clearly above average
 
-The believe: the overall package must be right. Money is just one component and should always be roughly at the level that someone in the market would receive for their position and corresponding professional experience. It is the extras that make the overall package clearly above average.
+At Sipgate, the company believes that a well-rounded compensation package is important for employees. While compensation is market-based and is expected to align with what is typically paid for a particular role and corresponding experience, it is just one component of the overall package. The company offers additional perks and benefits beyond salary to make the overall compensation package clearly above average.
 
 ---
 
 #### A salary increase every year. For everyone.
 
-No one has to change companies just to make a salary jump. Sipgate wants everyone to make a career with them and continuously improve every year. Therefore, everyone at sipgate should receive a salary increase every year.
+Sipgate aims to foster career growth and provide employees with a clear path for advancement. To that end, every employee should receive a salary increase every year, without having to look for opportunities elsewhere. This ensures that everyone has the chance to progress and continually improve their skills while remaining with the company.
 
 ---
 
 ### The model
 
-Our salary model is based on criteria defined by us for fair pay at sipgate. We have put these criteria into a formula. It is the ideal tool for us to determine current salaries for everyone. Working with our formula forces us to treat everyone equally and saves us time through standardization and automation.
-We work on our criteria annually to continually improve our salary model. Therefore, the formula changes every year. Our salary models carry version numbers with the year to make their limited validity clear. The current salary model 2022 is valid until December 31, 2022.
+At Sipgate, the company's salary model is based on a set of criteria defined by the company to ensure fair pay for all employees. These criteria have been formulated into a tool that helps determine current salaries for all staff members. By using this formula, the company is able to treat everyone equally and saves time through standardization and automation. To continually improve the salary model, the company reviews the criteria annually, and updates the formula accordingly. Each year, a new version number is assigned to the model to reflect its limited validity. For instance, the current salary model 2022 will remain valid until December 31, 2022.
+
+---
+
+### Components
+
+#### Role factor
+
+The company determines the Role Factor for each role through research. They collect typical starting salaries for each role by looking at currently paid average annual salaries for employees with 0-2 years of experience in the market. This information is obtained through publicly available studies, market overviews, and salary expectations of applicants. The Role Factors are then set in a way that, multiplied by the Location Points and currency factor, results in a typical starting salary. The Role Factors are set anew each year, and an increase results in a salary increase for all employees in that role. The company also has a Role Fixum, which is a fixed amount added to all members of a role, currently set at +1000 EUR. The company's salary model is prepared for multiple locations, including abroad and with other currencies if necessary.
+
+---
+
+#### Loyalty
+
+The Loyalty factor is initially 1.8% of the Base per full year of seniority at sipgate, but decreases to 1.2% after 10 years. Seniority is calculated based on the number of years and months an employee has worked in a permanent position at sipgate, excluding interruptions. Parental leave of up to one year per child or sabbaticals do not count as interruptions and are fully credited towards seniority.
+
+---
+
+#### Experience
+
+Relevant professional experience refers to the number of years and months worked in the current role, regardless of the company. Side jobs, temporary employment, or non-relevant part-time or full-time employment are not counted. Relevance is determined based on the current role or indirectly derived from it. Interruptions such as a sabbatical or taken parental leave of up to one year per child are fully credited. Experience creates a "curve" that reflects the average salary development in the market. In the first year, the resulting increase in comparison to the previous year from experience is 6% on the Base, 4.5% after 5 years, and 2.6% after 10 years.
+
+---
+
+#### Personal education path
+
+At sipgate, salaries are aimed to be set at the level of a university graduate in the market, regardless of whether someone has a degree or not. Adjustments are made for those who have pursued higher education to ensure fair compensation, as they accumulate less loyalty and experience than their peers who did not pursue higher education. Fixed surcharges are added to the salary formula for a bachelor's or pre-diploma (+2000 EUR) and a master's or diploma (+4000 EUR) degree, as long as there is an actual loss of time regarding loyalty and experience due to studies.
+
+---
+
+#### Supplements for Availability
+
+The availability community at sipgate is crucial for ensuring the 24/7 elimination of faults. These employees have a broad understanding of a diverse system landscape and contribute to reducing outages and improving communication. Supplements for availability are €62.64/day and €125.28/weekend and holiday in 2020. For those who need to reach the Düsseldorf readiness location quickly, the supplements are 5% higher. The supplements for readiness increase by 2.2% annually on July 1, based on the 2018 values.
+
+---
+
+### Disadvantadge of the model
+
+A disadvantage of a formula in general is that it tempts one to make assumptions about its future dynamics. It looks as if the formula already predicts what everyone will earn in five or ten years from now. This is wrong.
+
+---
+
+![Graphic Salary](Screenshot%202023-03-25%20171224.png)
+
+---
+
+Sipgate's salary model aims to provide fairness for today and considers the past but is not suitable for predicting future salary developments. The future salary development is unknown, and it will inevitably contain jumps. The salary round of 2017/18 saw over 70% of all employees receiving significant increases that exceeded expected increases based on the previous year's formula. Working with their salary model obliges them to review and change variables every year, resulting in more dynamics than the formula suggests.
+
+---
+
+### Fails
+
+- Including a market premium for developers with an informatics diploma, which made it seem like Sipgate viewed other educational paths as inferior
+- Not factoring in personal educational paths, which resulted in unequal pay for colleagues with the same job
+- Clearly communicate that the formula is unsuitable for predicting future salaries, leading to misunderstandings and complaints
+
+Sipgate corrected these mistakes in later versions of their salary model.
+
+---
+
+### Feedback
+
+Overall, Sipgate's salary model was positively received when it was introduced in 2016. Many employees were relieved to finally understand how their personal salary was composed, and the fairness and automatic annual salary increases for everyone were praised. However, there was also a lot of criticism. Sipgate advises that the introduction of a salary model should not be seen as a completed project, but rather an ongoing process of explaining, defending, and continuously developing the model over the next few years.
 
 ---
 
