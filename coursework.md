@@ -63,7 +63,7 @@ Aim to maintain an easy-to-understand formula that allows anyone to easily see h
 
 #### Fairness:
 
-Ensure that those with the same role and responsibilities who are at the same experience level are paid equitably.
+Ensure that those with the same role and responsibilities who are at the same experience level are paid equitably. Furthermore Buffer´s 2022 pay analysis shows: The unadjusted gender pay gap is below 1%.
 
 ---
 
@@ -76,6 +76,42 @@ Pay above market to attract the team they need, thrive as individuals, and avoid
 ### The Buffer Salary calculator
 
 The company built a salary calculator so that anyone can see what they would make at Buffer. They hope this information can also help others determine fair and competitive salaries across various roles and locations.
+
+---
+
+### Disadvantages of the system
+
+#### Complexity
+
+The salary formula used by Buffer is relatively complex, which could make it difficult for employees to understand how their compensation is determined. This could lead to confusion or misunderstandings about pay.
+
+---
+
+#### Biases
+
+While the salary formula is designed to be objective and data-driven, there is still the potential for biases to impact compensation. For example, the formula may not account for the value of certain soft skills or intangible qualities that an employee brings to the job.
+
+---
+
+#### Limited room for negotiation
+
+Because Buffer's salary system is so transparent and formulaic, there may be limited room for employees to negotiate their compensation. This could make it difficult for employees to advocate for higher pay or additional benefits.
+
+---
+
+#### Lack of flexibility
+
+The salary formula used by Buffer is based on a set of predetermined factors, which could limit the company's ability to respond to changing market conditions or individual employee needs.
+
+---
+
+#### Potential for dissatisfaction
+
+Despite the best intentions of the system, there may still be some employees who are dissatisfied with their compensation. This could lead to lower morale or higher turnover.
+
+---
+
+Overall, while Buffer's salary system has many advantages, it may not be a perfect fit for every company or every employee. As with any compensation system, there are potential challenges and limitations that should be carefully considered before implementation.
 
 ---
 
@@ -187,6 +223,10 @@ Overall, Sipgate's salary model was positively received when it was introduced i
 
 - https://buffer.com/salaries
 - https://sipgate.medium.com/so-zahlen-wir-6251ec42205a
+- https://buffer.com/resources/
+- https://hbr.org/2016/12/buffers-radical-transparency-can-it-work-for-your-company
+- https://www.businessinsider.com.au/how-buffer-salary-formula-works-2015-8
+- https://www.fastcompany.com/3059627/why-buffer-is-paying-all-employees-the-same-salary
 
 ---
 
