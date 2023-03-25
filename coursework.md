@@ -149,8 +149,7 @@ Sipgate is known for its employee-centric culture, and it is likely that the com
 
 ### The Lean Salary Framework
 
-- Officially introduced with the salary round in summer 2016
-- Since then, it has undergone several major revisions
+The model was officially introduced with the salary round in summer 2016. Since then, it has undergone several major revisions.
 
 ---
 
