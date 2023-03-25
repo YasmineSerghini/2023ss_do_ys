@@ -26,9 +26,17 @@ source: https://de.m.wikipedia.org/wiki/Datei:Sipgate.svg
 
 ## Buffer
 
-At a company like Buffer, all salaries have been transparent since 2013. Compensation is a transparent internal discussion, where the whole Buffer team can share thoughts and feedback.
+Buffer is a social media management platform that has gained recognition for its unique salary system.At a company like Buffer, all salaries have been transparent since 2013. Compensation is a transparent internal discussion, where the whole Buffer team can share thoughts and feedback.
 
 A lot has changed in their salary formula over the past few years. They took a very simple formula and made it more accurate to the labor market. Most recently, they’ve been focused on improving the formula to make it a true benchmark for a remote-first world.
+
+---
+
+The formula takes into account several factors, including job function, experience level, and location. Each of these factors is assigned a weight, and the final salary is calculated by multiplying the weights of each factor by the employee's specific values and adding them together.
+
+Buffer's salary system is also designed to be fair and equitable, as it ensures that employees with similar qualifications and experience levels receive similar compensation. Additionally, the company periodically reviews and updates its salary formula to ensure that it remains competitive and relevant.
+
+One notable feature of Buffer's salary system is its transparency. The company makes all salary information available to its employees, including the salaries of their colleagues. This transparency is meant to promote trust and open communication among employees.
 
 ---
 
@@ -62,6 +70,12 @@ Ensure that those with the same role and responsibilities who are at the same ex
 #### Generosity:
 
 Pay above market to attract the team they need, thrive as individuals, and avoid exceptions and inequity resulting from negotiation.
+
+---
+
+### The Buffer Salary calculator
+
+The company built a salary calculator so that anyone can see what they would make at Buffer. They hope this information can also help others determine fair and competitive salaries across various roles and locations.
 
 ---
 
@@ -145,6 +159,7 @@ A disadvantage of a formula in general is that it tempts one to make assumptions
 ---
 
 ![Graphic Salary](Screenshot%202023-03-25%20171224.png)
+source: https://sipgate.medium.com/so-zahlen-wir-6251ec42205a
 
 ---
 
@@ -170,8 +185,8 @@ Overall, Sipgate's salary model was positively received when it was introduced i
 
 ## Sources
 
-https://buffer.com/salaries
-https://sipgate.medium.com/so-zahlen-wir-6251ec42205a
+- https://buffer.com/salaries
+- https://sipgate.medium.com/so-zahlen-wir-6251ec42205a
 
 ---
 
