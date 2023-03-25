@@ -4,13 +4,16 @@
 
 Yasmine Serghini
 
-2023-03-12
+2023-03-29
+
+<!-- .slide: data-background="./annie-spratt-zA7I5BtFbvw-unsplash.jpg" -->
 
 ---
 
 ## Who?
 
 ![Logo B](Buffer-Logo.png)
+
 source: https://www.vectorlogo.zone/logos/buffer/index.html
 
 ---
