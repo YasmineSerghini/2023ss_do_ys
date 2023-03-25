@@ -1,12 +1,12 @@
 # SALARY SYSTEMS FOR BUFFER AND SIPGATE
 
+<!-- .slide: data-background="./annie-spratt-zA7I5BtFbvw-unsplash.jpg" -->
+
 ---
 
 Yasmine Serghini
 
 2023-03-29
-
-<!-- .slide: data-background="./annie-spratt-zA7I5BtFbvw-unsplash.jpg" -->
 
 ---
 
