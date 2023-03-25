@@ -1,6 +1,6 @@
 # SALARY SYSTEMS FOR BUFFER AND SIPGATE
 
-<!-- .slide: data-background="./annie-spratt-zA7I5BtFbvw-unsplash.jpg" -->
+<!-- .slide: data-background="./pexels-tima-miroshnichenko-6693655.jpg" -->
 
 ---
 
