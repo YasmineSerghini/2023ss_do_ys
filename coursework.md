@@ -36,6 +36,8 @@ The formula takes into account several factors, including job function, experien
 
 Buffer's salary system is also designed to be fair and equitable, as it ensures that employees with similar qualifications and experience levels receive similar compensation. Additionally, the company periodically reviews and updates its salary formula to ensure that it remains competitive and relevant.
 
+---
+
 One notable feature of Buffer's salary system is its transparency. The company makes all salary information available to its employees, including the salaries of their colleagues. This transparency is meant to promote trust and open communication among employees.
 
 ---
@@ -143,6 +145,8 @@ Some observers outside of the company have also shared their thoughts on the Buf
 
 Sipgate is a telecommunications company based in Germany that offers voice over IP (VoIP) services to individuals and businesses. Sipgate has a competitive compensation package that includes a base salary, performance-based bonuses, and benefits such as health insurance, retirement savings plans, and flexible work arrangements.
 
+---
+
 Sipgate is known for its employee-centric culture, and it is likely that the company values fair compensation and transparency in its salary system. Sipgate has also been recognized as a top employer in Germany, which suggests that it provides a positive work environment and opportunities for professional development.
 
 ---
@@ -157,7 +161,7 @@ The model was officially introduced with the salary round in summer 2016. Since 
 
 #### Never negotiate salaries again
 
-At Sipgate, compensation is determined by the market value of a particular role, rather than an individual's negotiating skills. This means that there are no individual salary negotiations. However, every employee receives a salary that is based on their individual experience and tenure with the company. Similar work is compensated similarly, but with consideration for individual experience and time spent with the company. Additionally, compensation is calculated each year using a simple formula based on objective criteria.
+At Sipgate, compensation is determined by the market value of a particular role, rather than an individual's negotiating skills - there are no individual salary negotiations. However, every employee receives a salary that is based on their individual experience and tenure with the company. Similar work is compensated similarly, but with consideration for individual experience and time spent with the company. Additionally, compensation is calculated each year using a simple formula based on objective criteria.
 
 ---
 
@@ -175,7 +179,7 @@ Sipgate aims to foster career growth and provide employees with a clear path for
 
 ### The model
 
-At Sipgate, the company's salary model is based on a set of criteria defined by the company to ensure fair pay for all employees. These criteria have been formulated into a tool that helps determine current salaries for all staff members. By using this formula, the company is able to treat everyone equally and saves time through standardization and automation. To continually improve the salary model, the company reviews the criteria annually, and updates the formula accordingly. Each year, a new version number is assigned to the model to reflect its limited validity. For instance, the current salary model 2022 will remain valid until December 31, 2022.
+The salary model is based on a set of criteria defined by the company to ensure fair pay for all employees. These criteria have been formulated into a tool that helps determine current salaries for all staff members. By using this formula, the company is able to treat everyone equally and saves time through standardization and automation. To continually improve the salary model, the company reviews the criteria annually, and updates the formula accordingly. Each year, a new version number is assigned to the model to reflect its limited validity. For instance, the current salary model 2022 will remain valid until December 31, 2022.
 
 ---
 
@@ -183,7 +187,11 @@ At Sipgate, the company's salary model is based on a set of criteria defined by 
 
 #### Role factor
 
-The company determines the Role Factor for each role through research. They collect typical starting salaries for each role by looking at currently paid average annual salaries for employees with 0-2 years of experience in the market. This information is obtained through publicly available studies, market overviews, and salary expectations of applicants. The Role Factors are then set in a way that, multiplied by the Location Points and currency factor, results in a typical starting salary. The Role Factors are set anew each year, and an increase results in a salary increase for all employees in that role. The company also has a Role Fixum, which is a fixed amount added to all members of a role, currently set at +1000 EUR. The company's salary model is prepared for multiple locations, including abroad and with other currencies if necessary.
+The company determines the Role Factor for each role through research. They collect typical starting salaries for each role by looking at currently paid average annual salaries for employees with 0-2 years of experience in the market. This information is obtained through publicly available studies, market overviews, and salary expectations of applicants. The Role Factors are then set in a way that, multiplied by the Location Points and currency factor, results in a typical starting salary.
+
+---
+
+The Role Factors are set anew each year, and an increase results in a salary increase for all employees in that role. The company also has a Role Fixum, which is a fixed amount added to all members of a role, currently set at +1000 EUR. The company's salary model is prepared for multiple locations, including abroad and with other currencies if necessary.
 
 ---
 
@@ -195,7 +203,7 @@ The Loyalty factor is initially 1.8% of the Base per full year of seniority at s
 
 #### Experience
 
-Relevant professional experience refers to the number of years and months worked in the current role, regardless of the company. Side jobs, temporary employment, or non-relevant part-time or full-time employment are not counted. Relevance is determined based on the current role or indirectly derived from it. Interruptions such as a sabbatical or taken parental leave of up to one year per child are fully credited. Experience creates a "curve" that reflects the average salary development in the market. In the first year, the resulting increase in comparison to the previous year from experience is 6% on the Base, 4.5% after 5 years, and 2.6% after 10 years.
+Relevant professional experience refers to the number of years and months worked in the current role, regardless of the company. Side jobs, temporary employment, or non-relevant part-time or full-time employment are not counted. Interruptions such as a sabbatical or taken parental leave of up to one year per child are fully credited. Experience creates a "curve" that reflects the average salary development in the market. In the first year, the resulting increase in comparison to the previous year from experience is 6% on the Base, 4.5% after 5 years, and 2.6% after 10 years.
 
 ---
 
