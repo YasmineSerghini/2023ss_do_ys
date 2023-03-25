@@ -179,7 +179,11 @@ Sipgate aims to foster career growth and provide employees with a clear path for
 
 ### The model
 
-The salary model is based on a set of criteria defined by the company to ensure fair pay for all employees. These criteria have been formulated into a tool that helps determine current salaries for all staff members. By using this formula, the company is able to treat everyone equally and saves time through standardization and automation. To continually improve the salary model, the company reviews the criteria annually, and updates the formula accordingly. Each year, a new version number is assigned to the model to reflect its limited validity. For instance, the current salary model 2022 will remain valid until December 31, 2022.
+The salary model is based on a set of criteria defined by the company to ensure fair pay for all employees. These criteria have been formulated into a tool that helps determine current salaries for all staff members. By using this formula, the company is able to treat everyone equally and saves time through standardization and automation.
+
+---
+
+To continually improve the salary model, the company reviews the criteria annually, and updates the formula accordingly. Each year, a new version number is assigned to the model to reflect its limited validity. For instance, the current salary model 2022 will remain valid until December 31, 2022.
 
 ---
 
@@ -237,7 +241,7 @@ Sipgate's salary model aims to provide fairness for today and considers the past
 ### Fails
 
 - Including a market premium for developers with an informatics diploma, which made it seem like Sipgate viewed other educational paths as inferior
-- Not factoring in personal educational paths, which resulted in unequal pay for colleagues with the same job
+- Not factoring in personal educational paths, resulting in unequal pay for colleagues with the same job
 - Clearly communicate that the formula is unsuitable for predicting future salaries, leading to misunderstandings and complaints
 
 Sipgate corrected these mistakes in later versions of their salary model.
