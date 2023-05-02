@@ -28,17 +28,16 @@ source: https://de.m.wikipedia.org/wiki/Datei:Sipgate.svg
 
 Buffer is a super cool website that helps people manage their social media. But what's even cooler is their pay system - everyone knows how much everyone else makes! The whole team gets together to talk about pay and give their thoughts.
 
-Buffer has changed the way they pay their team over the years, making it simpler and more in line with what other companies are doing. Now, they're working on making it even better for people who work from home. Exciting stuff!
+Buffer has changed the way they pay their team over the years, making it simpler and more in line with what other companies are doing. Now, they're working on making it even better for people who work from home. Exciting right?
 
 ---
 
-The formula takes into account several factors, including job function, experience level, and location. Each of these factors is assigned a weight, and the final salary is calculated by multiplying the weights of each factor by the employee's specific values and adding them together.
-
-Buffer's salary system is also designed to be fair and equitable, as it ensures that employees with similar qualifications and experience levels receive similar compensation. Additionally, the company periodically reviews and updates its salary formula to ensure that it remains competitive and relevant.
+Buffer's salary formula is like a math equation that considers a few things, like the job you do, how much experience you have, and where you live.
+Each of these things gets a number, and we add them together to get your salary! This way, everyone who has similar skills and experience gets paid similarly. They're obviously also checking to make sure they pay their team what they deserve!
 
 ---
 
-One notable feature of Buffer's salary system is its transparency. The company makes all salary information available to its employees, including the salaries of their colleagues. This transparency is meant to promote trust and open communication among employees.
+One notable feature of Buffer's salary system is its transparency. They're super open about salaries and tell everyone how much everyone else makes, so there are no secrets. This way, everyone knows they're being paid fairly and can talk about pay without feeling weird. It's like having an open book - they want everyone to trust each other and be open about money!
 
 ---
 
@@ -77,7 +76,7 @@ Pay above market to attract the team they need, thrive as individuals, and avoid
 
 ### The Buffer Salary calculator
 
-The company built a salary calculator so that anyone can see what they would make at Buffer. They hope this information can also help others determine fair and competitive salaries across various roles and locations.
+Want to know how much you'd make at Buffer? The company made a calculator just for you, so you can see what your salary would be if you worked with them. But that's not all - they also want to help everyone else out there too! The calculator can also help you figure out what a fair salary is for your job and where you live. Buffer wants to make sure everyone gets paid what they deserve!
 
 ---
 
@@ -85,41 +84,41 @@ The company built a salary calculator so that anyone can see what they would mak
 
 #### Complexity
 
-The salary formula used by Buffer is relatively complex, which could make it difficult for employees to understand how their compensation is determined. This could lead to confusion or misunderstandings about pay.
+Buffer's salary formula can be a bit tricky to understand because it's pretty complex. Sometimes this can make it hard for our team to figure out how their pay is calculated, and that can be confusing.
 
 ---
 
 #### Biases
 
-While the salary formula is designed to be objective and data-driven, there is still the potential for biases to impact compensation. For example, the formula may not account for the value of certain soft skills or intangible qualities that an employee brings to the job.
+Even though they have a fancy formula for paying people, sometimes our brains can still trick us! This means they might accidentally pay someone more or less based on things that don't really matter, like how they feel about them or their job. For example, the formula might not consider how awesome someone is at teamwork or being creative.
 
 ---
 
 #### Limited room for negotiation
 
-Because Buffer's salary system is so transparent and formulaic, there may be limited room for employees to negotiate their compensation. This could make it difficult for employees to advocate for higher pay or additional benefits.
+Buffer has a set way of figuring out pay, so there's not a lot of room for bargaining. This means it might be tough to ask for more money or other cool stuff.
 
 ---
 
 #### Lack of flexibility
 
-The salary formula used by Buffer is based on a set of predetermined factors, which could limit the company's ability to respond to changing market conditions or individual employee needs.
+To figure out pay at Buffer is also not very flexible. They use a set of rules that don't change very easily, which might not work for everyone. If the market changes or someone needs something different, they might not be able to adjust as easily as they'd like.
 
 ---
 
 #### Potential for dissatisfaction
 
-Despite the best intentions of the system, there may still be some employees who are dissatisfied with their compensation. This could lead to lower morale or higher turnover.
+Even though they try really hard to be fair with pay, some people might not be happy with what they get. This could make them feel kinda down or even decide to leave the company.
 
 ---
 
-Overall, while Buffer's salary system has many advantages, it may not be a perfect fit for every company or every employee. As with any compensation system, there are potential challenges and limitations that should be carefully considered before implementation.
+Buffer's salary system is pretty awesome, but it might not be right for everyone. Every company and employee is different, so there might be some challenges or limitations to the system. Before using it, it's important to think about these things and make sure it's a good fit for you!
 
 ---
 
 ### Feedback
 
-Since Buffer is known for its transparent approach to compensation, many employees have openly shared their thoughts and experiences with the system. Overall, feedback on the Buffer salary system has been mixed.
+Buffer is all about being open and honest, especially when it comes to pay! Some of the team members have shared what they think about the salary system, and it's been a mix of responses.
 
 ---
 
