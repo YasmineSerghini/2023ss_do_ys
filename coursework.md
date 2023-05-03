@@ -6,7 +6,15 @@
 
 Yasmine Serghini
 
-2023-05-02
+2023-05-10
+
+---
+
+# Agenda
+
+1. Who?
+2. Buffer´s salary formula
+3.
 
 ---
 
@@ -252,6 +260,10 @@ Sipgate corrected these mistakes in later versions of their salary model.
 ### Feedback
 
 Overall, Sipgate's salary model was positively received when it was introduced in 2016. Many employees were relieved to finally understand how their personal salary was composed, and the fairness and automatic annual salary increases for everyone were praised. However, there was also a lot of criticism. Sipgate advises that the introduction of a salary model should not be seen as a completed project, but rather an ongoing process of explaining, defending, and continuously developing the model over the next few years.
+
+---
+
+# Comparison?
 
 ---
 
