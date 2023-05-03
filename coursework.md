@@ -126,19 +126,19 @@ Buffer is all about being open and honest, especially when it comes to pay! Some
 
 #### Positive feedback
 
-Some employees have praised the Buffer salary system for its transparency and fairness. They appreciate being able to see how their compensation is calculated and feel that the system values their contributions to the company. Some have also reported feeling more motivated and engaged at work because they know they are being fairly compensated.
+The Buffer salary system is getting some serious love from employees! They think it's really cool that they can see how much they're getting paid and why. They feel like their hard work is being recognized and rewarded. And because they know they're being treated fairly, they're feeling super motivated and happy at work!
 
 ---
 
 #### Negative feedback
 
-Other employees have expressed concerns about the complexity of the Buffer salary system and its potential biases. Some have found it difficult to understand how their compensation is determined, while others feel that the system undervalues certain skills or experience. There have also been reports of some employees leaving the company due to dissatisfaction with their compensation.
+Uh oh, some other employees are not happy with how they do things at Buffer. They say the pay system is too complicated and might be unfair to some people. Some don't understand how their pay is decided, and others feel like their hard work isn't being recognized. Sadly, some people have even left because they weren't happy with how much they were getting paid.
 
 ---
 
 #### External feedback
 
-Some observers outside of the company have also shared their thoughts on the Buffer salary system. For example, some experts have praised the company for its innovative approach to compensation, while others have expressed concerns about the potential for biases or the limitations of the formulaic approach.
+Some observers outside of the company have shared their views on our salary system. Some experts think it's amazing and a real breakthrough in compensation, while others worry about possible biases or limitations of our formula. We appreciate all the feedback and keep working to make our system even more equitable and effective!
 
 ---
 
