@@ -4,6 +4,8 @@
 
 ---
 
+![Me](public/images/Profilbild.png)
+
 Yasmine Serghini
 
 2023-05-10
