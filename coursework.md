@@ -251,13 +251,15 @@ Overall, Sipgate's salary model was positively received when it was introduced i
 ## Sources
 
 <small>
-- https://buffer.com/salaries
-- https://sipgate.medium.com/so-zahlen-wir-6251ec42205a
-- https://buffer.com/resources/
-- https://hbr.org/2016/12/buffers-radical-transparency-can-it-work-for-your-company
-- https://www.businessinsider.com.au/how-buffer-salary-formula-works-2015-8
-- https://www.fastcompany.com/3059627/why-buffer-is-paying-all-employees-the-same-salary
-- https://www.glassdoor.com/Reviews/Buffer-Reviews-E941992.htm
+<ul>
+<li>https://buffer.com/salaries</li>
+<li>https://sipgate.medium.com/so-zahlen-wir-6251ec42205a</li>
+<li>https://buffer.com/resources/</li>
+<li>https://hbr.org/2016/12/buffers-radical-transparency-can-it-work-for-your-company</li>
+<li>https://www.businessinsider.com.au/how-buffer-salary-formula-works-2015-8</li>
+<li>https://www.fastcompany.com/3059627/why-buffer-is-paying-all-employees-the-same-salary</li>
+<li>https://www.glassdoor.com/Reviews/Buffer-Reviews-E941992.htm</li>
+</ul>
 </small>
 
 ---
