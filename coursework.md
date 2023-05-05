@@ -20,13 +20,12 @@ Yasmine Serghini
 
 ## Who?
 
-<p align="left">
-<img src="\public\images\Buffer-Logo-neu.jpg" width="50%" height="50%"/>
-</p>
-
-<p align="right">
-<img src="\public\images\Sipgate Logo-neu.jpg" width="50%" height="50%"/>
-</p>
+<table>
+  <tr>
+    <td><img src="\public\images\Buffer-Logo-neu.jpg"></td>
+    <td><img src="\public\images\Sipgate Logo-neu.jpg"></td>
+  </tr>
+</table>
 
 ---
 
