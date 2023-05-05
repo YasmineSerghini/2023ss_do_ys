@@ -67,6 +67,7 @@ One notable feature of Buffer's salary system is its transparency. They're super
 
 ### The Buffer Salary calculator
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-JM8m+ohs/x2ntZbYQ0aYKjJd+/R9Stp1cyLk+Py0G0j3MzrSZT0TtOewYt++1O8JF9tLGsL+e1zkBzMc8BjxhQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <i class="fa-duotone fa-calculator fa-beat fa-sm" style="--fa-primary-color: #ede8d6; --fa-secondary-color: #082a36;"></i>
 Want to know how much you'd make at Buffer?
 
