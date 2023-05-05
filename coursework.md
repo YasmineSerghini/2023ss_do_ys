@@ -21,11 +21,11 @@ Yasmine Serghini
 ## Who?
 
 <p align="left">
-<img src="\public\images\Buffer-Logo-neu.jpg" width="100" height="100" border="10"/>
+<img src="\public\images\Buffer-Logo-neu.jpg" width="50%" height="50%"/>
 </p>
 
 <p align="right">
-<img src="C:\GitHub\2023ss_do_ys\Sipgate Logo-neu.jpg" width="100" height="100" border="10"/>
+<img src="\public\images\Sipgate Logo-neu.jpg" width="50%" height="50%"/>
 </p>
 
 ---
