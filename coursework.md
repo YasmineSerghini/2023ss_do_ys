@@ -16,7 +16,11 @@ Yasmine Serghini
 
 1. Who?
 2. Buffer´s salary formula
-3.
+3. Key principles
+4. Disadvantages & Feedback
+5. Sipgate´s salary framework
+6. Components
+7. Disadvantages & Feedback
 
 ---
 
