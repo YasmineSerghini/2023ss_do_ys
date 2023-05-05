@@ -24,15 +24,13 @@ Yasmine Serghini
 
 ## Who?
 
-![Logo B](Buffer-Logo.png)
+<p align="left">
+<img src="C:\GitHub\2023ss_do_ys\Buffer-Logo-neu.jpg" width="100" height="100" border="10"/>
+</p>
 
-source: https://www.vectorlogo.zone/logos/buffer/index.html
-
----
-
-![Logo S](Sipgate%20Logo.jpg)
-
-source: https://de.m.wikipedia.org/wiki/Datei:Sipgate.svg
+<p align="right">
+<img src="C:\GitHub\2023ss_do_ys\Sipgate Logo-neu.jpg" width="100" height="100" border="10"/>
+</p>
 
 ---
 
