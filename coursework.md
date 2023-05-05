@@ -62,27 +62,12 @@ source: https://buffer.com/salaries
 
 ### Key principles for the team’s compensation and benefits
 
-#### Transparency:
-
-Openly share the approach and all salaries to create trust, hold themselves accountable, and serve as a resource for the industry.
-
----
-
-#### Simplicity:
-
-Aim to maintain an easy-to-understand formula that allows anyone to easily see how they arrive at any individual salary.
-
----
-
-#### Fairness:
-
-Ensure that those with the same role and responsibilities who are at the same experience level are paid equitably. Furthermore Buffer´s 2022 pay analysis shows: The unadjusted gender pay gap is below 1%.
-
----
-
-#### Generosity:
-
-Pay above market to attract the team they need, thrive as individuals, and avoid exceptions and inequity resulting from negotiation.
+| Principles   | Description                                                                                                                                                                                                  |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Transparency | Openly share the approach and all salaries to create trust, hold themselves accountable, and serve as a resource for the industry.                                                                           |
+| Simplicity   | Aim to maintain an easy-to-understand formula that allows anyone to easily see how they arrive at any individual salary.                                                                                     |
+| Fairness     | Ensure that those with the same role and responsibilities who are at the same experience level are paid equitably. Furthermore, Buffer's 2022 pay analysis shows: The unadjusted gender pay gap is below 1%. |
+| Generosity   | Pay above market to attract the team they need, thrive as individuals, and avoid exceptions and inequity resulting from negotiation.                                                                         |
 
 ---
 
