@@ -2,7 +2,7 @@
 
 <!-- .slide: data-background="./pexels-tima-miroshnichenko-6693655.jpg" -->
 
-<small color:"#ede8d6">Yasmine Serghini
+<small>Yasmine Serghini
 2023-05-10 </small>
 
 ---
