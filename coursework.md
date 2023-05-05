@@ -50,7 +50,7 @@ source: https://buffer.com/salaries
 
 ---
 
-### Key principles for the team’s compensation and benefits
+### Key principles for compensation and benefits
 
 ![Principles](Principles.png)
 
