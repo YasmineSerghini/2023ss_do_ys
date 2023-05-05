@@ -1,7 +1,3 @@
---
-theme moon
---
-
 # SALARY SYSTEMS FOR BUFFER AND SIPGATE
 
 <!-- .slide: data-background="./pexels-tima-miroshnichenko-6693655.jpg" -->
