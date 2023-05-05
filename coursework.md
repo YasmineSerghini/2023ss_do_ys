@@ -52,7 +52,7 @@ source: https://buffer.com/salaries
 
 ### Key principles for compensation and benefits
 
-![Principles](public/images/Principles.png)
+![Alt text](public/images/Principles.png)
 
 ---
 
