@@ -52,7 +52,7 @@ One notable feature of Buffer's salary system is its transparency. They're super
 ### Salary formula
 
 ![Buffer Formula](Salary%20Formula%20Buffer.png)
-source: https://buffer.com/salaries
+<small>source: https://buffer.com/salaries</small>
 
 ---
 
