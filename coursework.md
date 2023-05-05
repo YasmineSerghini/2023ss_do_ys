@@ -2,6 +2,9 @@
 
 <!-- .slide: data-background="./pexels-tima-miroshnichenko-6693655.jpg" -->
 
+<small>Yasmine Serghini
+2023-05-10 </small>
+
 ---
 
 ![Me](public/images/Profilbild.png)
