@@ -69,7 +69,7 @@ One notable feature of Buffer's salary system is its transparency. They're super
 
 <Box>
 <p align="right">
-<img src="C:\GitHub\2023ss_do_ys\public\images\calculator.png" width="100" height="100" border="10"/>
+<img src="\public\images\calculator.png" width="100" height="100"/>
 </p>
 Want to know how much you'd make at Buffer?
 
