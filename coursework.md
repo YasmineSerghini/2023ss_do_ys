@@ -2,9 +2,6 @@
 
 <!-- .slide: data-background="./pexels-tima-miroshnichenko-6693655.jpg" -->
 
-<small>Yasmine Serghini
-2023-05-10 </small>
-
 ---
 
 ![Me](public/images/Profilbild.png)
@@ -68,7 +65,7 @@ One notable feature of Buffer's salary system is its transparency. They're super
 ### The Buffer Salary calculator
 
 <Box>
-<p align="column">
+<p align="center">
 <img src="\public\images\calculator.png" width="80" height="100" mr={4}/> 
 </p>
 
