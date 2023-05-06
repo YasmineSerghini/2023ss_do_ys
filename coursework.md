@@ -269,4 +269,6 @@ Overall, Sipgate's salary model was positively received when it was introduced i
 
 ---
 
-Thank you! &#10084;
+# Thank you! &#10084;
+
+<!-- .slide: data-background="./pexels-tima-miroshnichenko-6693655.jpg" -->
