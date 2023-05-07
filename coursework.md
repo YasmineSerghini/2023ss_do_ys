@@ -4,9 +4,7 @@
 
 ---
 
-<p>
-<img align="center" src="\public\images\Profilbild.png" width="220"/>
-</p>
+![Me](public/images/Profilbild.png)
 
 #### Yasmine Serghini
 
