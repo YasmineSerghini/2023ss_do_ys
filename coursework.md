@@ -83,10 +83,10 @@ The company made a calculator just for you, so you can see what your salary woul
 Complexity
 </p>
 <p align="right">
-Limited room for negotiation
+Biases
 </p>
 <p align="center">
-Biases
+Limited room for negotiation
 </p>
 <p align="left">
 Lack of flexibility
