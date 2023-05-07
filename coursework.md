@@ -132,11 +132,15 @@ Some of the team members have shared what they think about the salary system, an
 
 ## Sipgate
 
-Sipgate is a telecommunications company based in Germany that offers voice over IP (VoIP) services to individuals and businesses. Sipgate has a competitive compensation package that includes a base salary, performance-based bonuses, and benefits such as health insurance, retirement savings plans, and flexible work arrangements.
+Sipgate is a telecommunications company based in Germany that offers an awesome service that lets you talk to people over the internet.
 
----
+|       Basic       |      Benefits      |
+| :---------------: | :----------------: |
+| Good compensation |  Health insurance  |
+|      Bonuses      | Flexible schedules |
+|                   |  Retirement plans  |
 
-Sipgate is known for its employee-centric culture, and it is likely that the company values fair compensation and transparency in its salary system. Sipgate has also been recognized as a top employer in Germany, which suggests that it provides a positive work environment and opportunities for professional development.
+Sipgate is known for being a great place to work, as they treat their employees well and give them opportunities to grow in their careers.
 
 ---
 
