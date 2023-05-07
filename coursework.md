@@ -156,13 +156,12 @@ The model was officially introduced with the salary round in summer 2016. Since 
 
 ### The model
 
-</br>
 <p align="left">
 Set of criteria
 </p>
 <p align="right">
 Ensure fair pay
-</p>
+</p></br>
 <p align="center">
 Formulated into a tool
 </p></br>
