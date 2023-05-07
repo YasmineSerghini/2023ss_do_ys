@@ -49,16 +49,16 @@ One notable feature of Buffer's salary system is its transparency. They're super
 
 ---
 
+### Key principles for compensation and benefits
+
+![Alt text](public/images/Principles.png)
+
+---
+
 ### Salary formula
 
 ![Buffer Formula](Salary%20Formula%20Buffer.png)
 <small>source: https://buffer.com/salaries</small>
-
----
-
-### Key principles for compensation and benefits
-
-![Alt text](public/images/Principles.png)
 
 ---
 
