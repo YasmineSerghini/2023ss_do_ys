@@ -186,6 +186,7 @@ For example, the current salary model 2022 will remain valid until December 31, 
 
 ### Components
 
+<Box align="column">
 <p>
 <img align="left" src=".\Role Factor.png" width="150"/>
 </p>
@@ -215,6 +216,8 @@ For example, the current salary model 2022 will remain valid until December 31, 
 </p>
 
 ### Personal education path
+
+</Box>
 
 ---
 
