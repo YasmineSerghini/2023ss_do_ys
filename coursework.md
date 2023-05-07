@@ -220,9 +220,13 @@ Overall, Sipgate's salary model was positively received when it was introduced i
 
 ---
 
-### Comparison?
+### Comparison
 
 While Buffer takes a formulaic approach that considers factors like job function and location, Sipgate determines Role Factors through extensive research on typical starting salaries. Both companies offer competitive compensation packages, but Sipgate sweetens the deal with a fixed amount, the Role Fixum, added to all members of a role. With their employee-centric cultures and commitment to fair pay, both Buffer and Sipgate are setting a high bar for compensation practices in the modern workplace.
+
+---
+
+# Where would you rather work? 😏
 
 ---
 
