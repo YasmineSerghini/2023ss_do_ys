@@ -78,6 +78,7 @@ The company made a calculator just for you, so you can see what your salary woul
 
 ### Disadvantages of the system
 
+</br>
 <Box>
 <p align="left">
 Complexity
@@ -87,8 +88,8 @@ Biases
 </p>
 <p align="center">
 Limited room for negotiation
-</p>
-<p align="left" py={4}>
+</p></br>
+<p align="left">
 Lack of flexibility
 </p>
 <p align="right">
