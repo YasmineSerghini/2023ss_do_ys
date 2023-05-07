@@ -40,13 +40,10 @@ Buffer is a super cool website that helps people manage their social media. But 
 
 Buffer's salary formula is like a math equation:
 
-- the job you make
-- the experience you have
-- where you live
-
-</br>
-
-Each of these things gets a number, and we add them together to get your salary! This way, everyone who has similar skills and experience gets paid similarly.
+- #### Job
+- #### Experience
+- #### Location
+  Each of these things gets a number, and we add them together to get your salary! This way, everyone who has similar skills and experience gets paid similarly.
 
 ---
 
