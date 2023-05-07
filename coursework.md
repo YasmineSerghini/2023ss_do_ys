@@ -186,7 +186,8 @@ For example, the current salary model 2022 will remain valid until December 31, 
 
 ### Components
 
-![RF](Role%20Factor.png) | ![Experience](Experience.png) | ![Loyalty](Loyalty.png) | ![PEP](Personal%20education%20path.png) | ![Supplements](Supplements.png) |
+|:----------------------:|:---------------------:|:---------------------:|:-------------------------------------:|:---------------------:|
+| [RF](Role%20Factor.png)| ![EP](Experience.png) | ![LOYAL](Loyalty.png) | ![P](Personal%20education%20path.png) | ![SUP](Supplements.png) |
 
 ---
 
