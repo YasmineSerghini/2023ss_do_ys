@@ -192,6 +192,8 @@ For example, the current salary model 2022 will remain valid until December 31, 
 
 ### Disadvantage of the model
 
+</br>
+
 A disadvantage of a formula in general is that it tempts one to make assumptions about its future dynamics. It looks as if the formula already predicts what everyone will earn in five or ten years from now.
 
 ---
@@ -207,8 +209,6 @@ Didn't consider personal educational paths (unequal pay for colleagues in the sa
 </br>
 
 No communication that the salary formula wasn't appropriate for predicting future salaries
-
-</br>
 
 <small>Sipgate corrected these mistakes in later versions of their salary model.</small>
 
