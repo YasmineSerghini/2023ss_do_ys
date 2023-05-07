@@ -82,7 +82,7 @@ The company made a calculator just for you, so you can see what your salary woul
 <Box>
 <p align="left">
 Complexity
-</p></br>
+</p>
 <p align="right">
 Biases
 </p>
