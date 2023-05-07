@@ -34,7 +34,11 @@ Yasmine Serghini
 
 ## Buffer
 
-Buffer is a super cool website that helps people manage their social media. But what's even cooler is their pay system - everyone knows how much everyone else makes! The whole team gets together to talk about pay and give their thoughts.
+Buffer is a super cool website that helps people manage their social media.
+
+But what's even cooler is their pay system - everyone knows how much everyone else makes!
+
+The whole team gets together to talk about pay and give their thoughts.
 
 ---
 
