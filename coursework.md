@@ -80,29 +80,19 @@ The company made a calculator just for you, so you can see what your salary woul
 
 <Box>
 <p align="left">
-
-#### Complexity
-
+Complexity
 </p>
 <p align="center">
-
-#### Biases
-
+Biases
 </p>
 <p align="right">
-
-#### Limited room for negotiation
-
+Limited room for negotiation
 </p>
 <p align="left">
-
-#### Lack of flexibility
-
+Lack of flexibility
 </p>
-<p align="center">
-
-#### Potential for dissatisfaction
-
+<p align="right">
+Potential for dissatisfaction
 </p>
 
 ---
