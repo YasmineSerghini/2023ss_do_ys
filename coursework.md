@@ -64,9 +64,9 @@ One notable feature of Buffer's salary system is its transparency. They're super
 
 ### The Buffer Salary calculator
 
-<p align="center">
-<img src="\public\images\calculator.png" width="80" height="100" mr={4}/> 
-<img src=".\frame.png" width="50" height="100"/> 
+<p align="column">
+<img align="center" src="\public\images\calculator.png" width="80" height="100" mr={4}/> 
+<img align="center" src=".\frame.png" width="160" height="200"/>
 </p>
 
 ### How much would you make?
