@@ -24,6 +24,8 @@ Yasmine Serghini
 <li>Disadvantages & Feedback</li>
 </ul>
 
+<!-- .slide: data-background="./Background Agenda.jpg" -->
+
 ---
 
 ## Who?
