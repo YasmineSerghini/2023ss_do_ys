@@ -246,6 +246,8 @@ While Buffer takes a formulaic approach that considers factors like job function
 </ul>
 </small>
 
+<!-- .slide: data-background="./Sources.jpg" -->
+
 ---
 
 # Thank you! &#10084;
