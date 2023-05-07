@@ -56,8 +56,6 @@ LOCATION
 Each of these things gets a number, and we add them together to get your salary.
 This way, everyone who has similar skills and experience gets paid similarly.
 
-<!-- .slide: data-background="./Calculator.jpg" -->
-
 ---
 
 ### Key principles for compensation and benefits
