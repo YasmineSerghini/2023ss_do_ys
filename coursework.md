@@ -14,13 +14,13 @@ Yasmine Serghini
 
 # Agenda
 
-- ### Who?
-- ### Buffer´s salary formula
-- ### Key principles
-- ### Disadvantages & Feedback
-- ### Sipgate´s salary framework
-- ### Components
-- ### Disadvantages & Feedback
+- #### Who?
+- #### Buffer´s salary formula
+- #### Key principles
+- #### Disadvantages & Feedback
+- #### Sipgate´s salary framework
+- #### Components
+- #### Disadvantages & Feedback
 
 <!-- .slide: data-background="./Background Agenda.jpg" -->
 
