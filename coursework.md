@@ -78,7 +78,10 @@ The company made a calculator just for you, so you can see what your salary woul
 
 ### Disadvantages of the system
 
-#### Complexity
+<Box>
+<p align="center">
+<h3> Complexity </h3>
+</p>
 
 Buffer's salary formula can be a bit tricky to understand because it's pretty complex. Sometimes this can make it hard for our team to figure out how their pay is calculated, and that can be confusing.
 
