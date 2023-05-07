@@ -192,14 +192,7 @@ For example, the current salary model 2022 will remain valid until December 31, 
 
 #### Role factor
 
-- Determine the Role Factor for each role through research
-- Collect typical starting salaries for each role
-- Analyzing currently paid average annual salaries with 0-2 years of experience through publicly available studies, market overviews, and salary expectations of applicants
-- Set Role Factors into starting salary by multipling the the Location Points and currency factor
-
----
-
-The Role Factors are set anew each year, and an increase results in a salary increase for all employees in that role. The company also has a Role Fixum, which is a fixed amount added to all members of a role, currently set at +1000 EUR. The company's salary model is prepared for multiple locations, including abroad and with other currencies if necessary.
+Every year, the company sets Role Factors for each job role by looking at starting salaries for employees with 0-2 years of experience, and this determines the salary for all employees in that role. The company also adds a **fixed amount** to each role and has a **flexible system** that can account for different locations and currencies.
 
 ---
 
