@@ -42,11 +42,11 @@ Buffer's salary formula is like a math equation:
 
 <p align="center">
 
-Job
+JOB
 
-Experience
+EXPERIENCE
 
-Location
+LOCATION
 
 </p></br>
 
