@@ -190,31 +190,31 @@ For example, the current salary model 2022 will remain valid until December 31, 
 <img align="center" src=".\Role Factor.png" width="150"/>
 </p>
 
-#### Role factor
+### Role factor
 
-Every year, the company sets Role Factors for each job role by looking at starting salaries for employees with 0-2 years of experience, and this determines the salary for all employees in that role. The company also adds a **fixed amount** to each role and has a **flexible system** that can account for different locations and currencies.
+Sipgate sets Role Factors for each job role by looking at starting salaries for employees with 0-2 years of experience annually, which determines the salary for all employees in that role. The company also adds a **fixed amount** to each role and has a **flexible system** that can account for different locations and currencies.
 
 ---
 
-#### Loyalty
+### Loyalty
 
 The Loyalty factor is initially 1.8% of the Base per full year of seniority at sipgate, but decreases to 1.2% after 10 years. Seniority is calculated based on the number of years and months an employee has worked in a permanent position at sipgate, excluding interruptions. Parental leave of up to one year per child or sabbaticals do not count as interruptions and are fully credited towards seniority.
 
 ---
 
-#### Experience
+### Experience
 
 Relevant professional experience refers to the number of years and months worked in the current role, regardless of the company. Side jobs, temporary employment, or non-relevant part-time or full-time employment are not counted. Interruptions such as a sabbatical or taken parental leave of up to one year per child are fully credited. Experience creates a "curve" that reflects the average salary development in the market. In the first year, the resulting increase in comparison to the previous year from experience is 6% on the Base, 4.5% after 5 years, and 2.6% after 10 years.
 
 ---
 
-#### Personal education path
+### Personal education path
 
 At sipgate, salaries are aimed to be set at the level of a university graduate in the market, regardless of whether someone has a degree or not. Adjustments are made for those who have pursued higher education to ensure fair compensation, as they accumulate less loyalty and experience than their peers who did not pursue higher education. Fixed surcharges are added to the salary formula for a bachelor's or pre-diploma (+2000 EUR) and a master's or diploma (+4000 EUR) degree, as long as there is an actual loss of time regarding loyalty and experience due to studies.
 
 ---
 
-#### Supplements for Availability
+### Supplements for Availability
 
 The availability community at sipgate is crucial for ensuring the 24/7 elimination of faults. These employees have a broad understanding of a diverse system landscape and contribute to reducing outages and improving communication. Supplements for availability are €62.64/day and €125.28/weekend and holiday in 2020. For those who need to reach the Düsseldorf readiness location quickly, the supplements are 5% higher. The supplements for readiness increase by 2.2% annually on July 1, based on the 2018 values.
 
