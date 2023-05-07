@@ -165,10 +165,10 @@ Ensure fair pay
 </p>
 <p align="center">
 Formulated into a tool
-</p>
+</p></br>
 <p align="left">
 Treat everyone equally
-</p>
+</p></br>
 <p align="right">
 Standardization and automation
 </p>
