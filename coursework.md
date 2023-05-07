@@ -186,9 +186,16 @@ For example, the current salary model 2022 will remain valid until December 31, 
 
 ### Components
 
+<p>
+<img align="center" src=".\Role Factor.png" width="100"/>
+</p>
+
 #### Role factor
 
-The company determines the Role Factor for each role through research. They collect typical starting salaries for each role by looking at currently paid average annual salaries for employees with 0-2 years of experience in the market. This information is obtained through publicly available studies, market overviews, and salary expectations of applicants. The Role Factors are then set in a way that, multiplied by the Location Points and currency factor, results in a typical starting salary.
+- Determine the Role Factor for each role through research
+- Collect typical starting salaries for each role
+- Analyzing currently paid average annual salaries with 0-2 years of experience through publicly available studies, market overviews, and salary expectations of applicants
+- Set Role Factors into starting salary by multipling the the Location Points and currency factor
 
 ---
 
