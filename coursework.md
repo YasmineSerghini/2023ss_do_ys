@@ -55,10 +55,6 @@ This way, everyone who has similar skills and experience gets paid similarly.
 
 ---
 
-One notable feature of Buffer's salary system is its transparency. They're super open about salaries and tell everyone how much everyone else makes, so there are no secrets. This way, everyone knows they're being paid fairly and can talk about pay without feeling weird. It's like having an open book - they want everyone to trust each other and be open about money!
-
----
-
 ### Key principles for compensation and benefits
 
 ![Principles](public/images/Principles.png)
