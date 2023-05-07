@@ -64,15 +64,13 @@ One notable feature of Buffer's salary system is its transparency. They're super
 
 ### The Buffer Salary calculator
 
-<Box>
 <p align="center">
 <img src="\public\images\calculator.png" width="80" height="100" mr={4}/> 
 </p>
 
 ### How much would you make?
 
-The company made a calculator just for you, so you can see what your salary would be if you worked with them. The calculator can also help you figure out what a fair salary is for your job and where you live. Buffer wants to make sure everyone gets paid what they deserve!
-</Box>
+The company made a calculator, so you can see what your salary would be if you worked with them. The calculator can also help you figure out what a fair salary is for your job and where you live.
 
 ---
 
