@@ -50,7 +50,8 @@ Location
 
 </p></br>
 
-Each of these things gets a number, and we add them together to get your salary! This way, everyone who has similar skills and experience gets paid similarly.
+Each of these things gets a number, and we add them together to get your salary.
+This way, everyone who has similar skills and experience gets paid similarly.
 
 ---
 
