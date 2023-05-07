@@ -84,7 +84,7 @@ The company made a calculator just for you, so you can see what your salary woul
 Complexity
 </p>
 <p align="right">
-Biases </br>
+Biases
 </p>
 <p align="center">
 Limited room for negotiation
