@@ -75,6 +75,10 @@ Use the company´s calculator to see what your salary would be at Buffer or figu
 
 ---
 
+<img align="center" src=".\qrcode.jpeg" width="500"/>
+
+---
+
 ### Disadvantages of the system
 
 </br>
