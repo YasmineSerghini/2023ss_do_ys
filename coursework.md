@@ -187,12 +187,34 @@ For example, the current salary model 2022 will remain valid until December 31, 
 ### Components
 
 <p>
-<img align="center" src=".\Role Factor.png" width="150"/>
+<img align="left" src=".\Role Factor.png" width="150"/>
 </p>
 
 ### Role factor
 
-Sipgate sets Role Factors for each job role by looking at starting salaries for employees with 0-2 years of experience annually, which determines the salary for all employees in that role. The company also adds a **fixed amount** to each role and has a **flexible system** that can account for different locations and currencies.
+<p>
+<img align="center" src=".\Role Factor.png" width="150"/>
+</p>
+
+### Loyalty
+
+<p>
+<img align="right" src=".\Role Factor.png" width="150"/>
+</p>
+
+### Experience
+
+<p>
+<img align="left" src=".\Role Factor.png" width="150"/>
+</p>
+
+### Personal education path
+
+<p>
+<img align="right" src=".\Role Factor.png" width="150"/>
+</p>
+
+### Personal education path
 
 ---
 
