@@ -198,9 +198,17 @@ A disadvantage of a formula in general is that it tempts one to make assumptions
 
 ### Fails
 
-- Higher salary for developers with informatics diploma (other educational paths seemed inferior)
-- Didn't consider personal educational paths (unequal pay for colleagues in the same job)
-- No communication that the salary formula wasn't appropriate for predicting future salaries
+Higher salary for developers with informatics diploma (other educational paths seemed inferior)
+
+</br>
+
+Didn't consider personal educational paths (unequal pay for colleagues in the same job)
+
+</br>
+
+No communication that the salary formula wasn't appropriate for predicting future salaries
+
+</br>
 
 <small>Sipgate corrected these mistakes in later versions of their salary model.</small>
 
