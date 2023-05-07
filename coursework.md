@@ -5,7 +5,7 @@
 ---
 
 <p>
-<img align="center" src="\public\images\Profilbild.png" width="300"/>
+<img align="center" src="\public\images\Profilbild.png" width="150"/>
 </p>
 
 #### Yasmine Serghini
