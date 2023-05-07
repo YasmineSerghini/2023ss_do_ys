@@ -79,7 +79,6 @@ The company made a calculator just for you, so you can see what your salary woul
 ### Disadvantages of the system
 
 </br>
-<Box>
 <p align="left">
 Complexity
 </p>
@@ -95,7 +94,6 @@ Lack of flexibility
 <p align="right">
 Potential for dissatisfaction
 </p>
-</Box>
 
 ---
 
