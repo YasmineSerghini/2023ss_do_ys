@@ -42,9 +42,12 @@ Buffer's salary formula is like a math equation:
 
 <p align="center">
 
-- #### Job
-- #### Experience
-- #### Location
+### Job
+
+### Experience
+
+### Location
+
 </p></br>
 
 Each of these things gets a number, and we add them together to get your salary! This way, everyone who has similar skills and experience gets paid similarly.
