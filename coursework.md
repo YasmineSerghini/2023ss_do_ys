@@ -101,6 +101,7 @@ Buffer's salary system is pretty awesome, but it **might not be right for everyo
 </br>
 
 </br>
+
 Every company and employee is different, so there might be some challenges or limitations to the system. Before using it, it's important to think about these things and **make sure it's a good fit for you**!
 
 ---
