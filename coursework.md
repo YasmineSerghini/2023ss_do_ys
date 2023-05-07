@@ -75,7 +75,7 @@ Use the company´s calculator to see what your salary would be at Buffer or figu
 
 ---
 
-<img align="center" src=".\frame.png" width="100"/>
+<img align="center" src=".\frame.png" width="500"/>
 
 ---
 
