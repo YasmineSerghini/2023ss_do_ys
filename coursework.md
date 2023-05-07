@@ -20,7 +20,7 @@ Yasmine Serghini
 - #### Disadvantages & Feedback
 - #### Sipgate´s salary framework
 - #### Components
-- #### Disadvantages & Feedback
+- #### Fails & Feedback
 
 <!-- .slide: data-background="./Background Agenda.jpg" -->
 
@@ -193,11 +193,6 @@ For example, the current salary model 2022 will remain valid until December 31, 
 ### Disadvantadge of the model
 
 A disadvantage of a formula in general is that it tempts one to make assumptions about its future dynamics. It looks as if the formula already predicts what everyone will earn in five or ten years from now. This is wrong.
-
----
-
-![Graphic Salary](Screenshot%202023-03-25%20171224.png)
-source: https://sipgate.medium.com/so-zahlen-wir-6251ec42205a
 
 ---
 
