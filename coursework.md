@@ -140,8 +140,6 @@ Sipgate is a telecommunications company based in Germany that offers an awesome 
 |      Bonuses      | Flexible schedules |
 |                   |  Retirement plans  |
 
-Sipgate is known for being a great place to work, as they treat their employees well and give them opportunities to grow in their careers.
-
 ---
 
 ### The Lean Salary Framework
