@@ -150,23 +150,7 @@ The model was officially introduced with the salary round in summer 2016. Since 
 
 ---
 
-### The Goals
-
-#### Never negotiate salaries again
-
-At Sipgate, compensation is determined by the market value of a particular role, rather than an individual's negotiating skills - there are no individual salary negotiations. However, every employee receives a salary that is based on their individual experience and tenure with the company. Similar work is compensated similarly, but with consideration for individual experience and time spent with the company. Additionally, compensation is calculated each year using a simple formula based on objective criteria.
-
----
-
-#### The overall package is clearly above average
-
-At Sipgate, the company believes that a well-rounded compensation package is important for employees. While compensation is market-based and is expected to align with what is typically paid for a particular role and corresponding experience, it is just one component of the overall package. The company offers additional perks and benefits beyond salary to make the overall compensation package clearly above average.
-
----
-
-#### A salary increase every year. For everyone.
-
-Sipgate aims to foster career growth and provide employees with a clear path for advancement. To that end, every employee should receive a salary increase every year, without having to look for opportunities elsewhere. This ensures that everyone has the chance to progress and continually improve their skills while remaining with the company.
+![Goals](Goals.png)
 
 ---
 
