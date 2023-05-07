@@ -228,7 +228,9 @@ While Buffer takes a formulaic approach that considers factors like job function
 
 ## Where would you rather work?
 
-## <!-- .slide: data-background="./Background Question.jpg" -->
+<!-- .slide: data-background="./Background Question.jpg" -->
+
+---
 
 ## Sources
 
