@@ -97,35 +97,8 @@ Potential for dissatisfaction
 
 ---
 
-Buffer's salary formula can be a bit tricky to understand because it's pretty complex. Sometimes this can make it hard for our team to figure out how their pay is calculated, and that can be confusing.
-
----
-
-#### Biases
-
-Even though they have a fancy formula for paying people, sometimes our brains can still trick us! This means they might accidentally pay someone more or less based on things that don't really matter, like how they feel about them or their job. For example, the formula might not consider how awesome someone is at teamwork or being creative.
-
----
-
-#### Limited room for negotiation
-
-Buffer has a set way of figuring out pay, so there's not a lot of room for bargaining. This means it might be tough to ask for more money or other cool stuff.
-
----
-
-#### Lack of flexibility
-
-To figure out pay at Buffer is also not very flexible. They use a set of rules that don't change very easily, which might not work for everyone. If the market changes or someone needs something different, they might not be able to adjust as easily as they'd like.
-
----
-
-#### Potential for dissatisfaction
-
-Even though they try really hard to be fair with pay, some people might not be happy with what they get. This could make them feel kinda down or even decide to leave the company.
-
----
-
-Buffer's salary system is pretty awesome, but it might not be right for everyone. Every company and employee is different, so there might be some challenges or limitations to the system. Before using it, it's important to think about these things and make sure it's a good fit for you!
+Buffer's salary system is pretty awesome, but it **might not be right for everyone**.
+Every company and employee is different, so there might be some challenges or limitations to the system. Before using it, it's important to think about these things and **make sure it's a good fit for you**!
 
 ---
 
