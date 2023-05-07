@@ -156,7 +156,22 @@ The model was officially introduced with the salary round in summer 2016. Since 
 
 ### The model
 
-The salary model is based on a set of criteria defined by the company to ensure fair pay for all employees. These criteria have been formulated into a tool that helps determine current salaries for all staff members. By using this formula, the company is able to treat everyone equally and saves time through standardization and automation.
+</br>
+<p align="left">
+Set of criteria
+</p>
+<p align="right">
+Ensure fair pay
+</p>
+<p align="center">
+Formulated into a tool
+</p></br>
+<p align="left">
+Treat everyone equally
+</p>
+<p align="right">
+standardization and automation
+</p>
 
 ---
 
