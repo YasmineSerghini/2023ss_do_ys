@@ -146,6 +146,8 @@ Sipgate is a telecommunications company based in Germany that offers an awesome 
 
 ### The Lean Salary Framework
 
+</br>
+
 The model was officially introduced with the salary round in summer 2016. Since then, it has undergone several major revisions.
 
 ---
