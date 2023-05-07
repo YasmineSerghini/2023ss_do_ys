@@ -176,7 +176,11 @@ Standardization and automation
 
 ---
 
-To continually improve the salary model, the company reviews the criteria annually, and updates the formula accordingly. Each year, a new version number is assigned to the model to reflect its limited validity. For instance, the current salary model 2022 will remain valid until December 31, 2022.
+To **continually improve** the salary model, the company reviews the criteria annually, and updates the formula accordingly. Each year, **a new version number** is assigned to the model to reflect its limited validity.
+
+</br>
+
+For example, the current salary model 2022 will remain valid until December 31, 2022.
 
 ---
 
