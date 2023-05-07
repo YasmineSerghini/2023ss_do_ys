@@ -35,14 +35,16 @@ Yasmine Serghini
 ## Buffer
 
 Buffer is a super cool website that helps people manage their social media. But what's even cooler is their pay system - everyone knows how much everyone else makes! The whole team gets together to talk about pay and give their thoughts.
-</br>
-
-Buffer has changed the way they pay their team over the years, making it simpler and more in line with what other companies are doing. Now, they're working on making it even better for people who work from home. Exciting right?
 
 ---
 
-Buffer's salary formula is like a math equation that considers a few things, like the job you do, how much experience you have, and where you live.
-Each of these things gets a number, and we add them together to get your salary! This way, everyone who has similar skills and experience gets paid similarly. They're obviously also checking to make sure they pay their team what they deserve!
+Buffer's salary formula is like a math equation:
+
+- The job you do
+- How much experience you have
+- Where you live.
+
+Each of these things gets a number, and we add them together to get your salary! This way, everyone who has similar skills and experience gets paid similarly.
 
 ---
 
@@ -52,7 +54,7 @@ One notable feature of Buffer's salary system is its transparency. They're super
 
 ### Key principles for compensation and benefits
 
-![Alt text](public/images/Principles.png)
+![Principles](public/images/Principles.png)
 
 ---
 
