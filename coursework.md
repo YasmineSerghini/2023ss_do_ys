@@ -71,7 +71,7 @@ One notable feature of Buffer's salary system is its transparency. They're super
 ### How much would you make?
 
 </br>
-The company made a calculator, so you can see what your salary would be if you worked with them. The calculator can also help you figure out what a fair salary is for your job and where you live.
+Use the company´s calculator to see what your salary would be at Buffer or figure out what a fair salary is for your job and where you live.
 
 ---
 
