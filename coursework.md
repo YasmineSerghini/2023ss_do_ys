@@ -190,23 +190,19 @@ For example, the current salary model 2022 will remain valid until December 31, 
 
 ---
 
-### Disadvantadge of the model
+### Disadvantage of the model
 
-A disadvantage of a formula in general is that it tempts one to make assumptions about its future dynamics. It looks as if the formula already predicts what everyone will earn in five or ten years from now. This is wrong.
-
----
-
-Sipgate's salary model aims to provide fairness for today and considers the past but is not suitable for predicting future salary developments. The future salary development is unknown, and it will inevitably contain jumps. The salary round of 2017/18 saw over 70% of all employees receiving significant increases that exceeded expected increases based on the previous year's formula. Working with their salary model obliges them to review and change variables every year, resulting in more dynamics than the formula suggests.
+A disadvantage of a formula in general is that it tempts one to make assumptions about its future dynamics. It looks as if the formula already predicts what everyone will earn in five or ten years from now.
 
 ---
 
 ### Fails
 
-- Including a market premium for developers with an informatics diploma, which made it seem like Sipgate viewed other educational paths as inferior
-- Not factoring in personal educational paths, resulting in unequal pay for colleagues with the same job
-- Clearly communicate that the formula is unsuitable for predicting future salaries, leading to misunderstandings and complaints
+- Higher salary for developers with informatics diploma (other educational paths seemed inferior)
+- Didn't consider personal educational paths (unequal pay for colleagues in the same job)
+- No communication that the salary formula wasn't appropriate for predicting future salaries
 
-Sipgate corrected these mistakes in later versions of their salary model.
+<small>Sipgate corrected these mistakes in later versions of their salary model.</small>
 
 ---
 
@@ -216,7 +212,9 @@ Overall, Sipgate's salary model was positively received when it was introduced i
 
 ---
 
-# Comparison?
+### Comparison?
+
+While Buffer takes a formulaic approach that considers factors like job function and location, Sipgate determines Role Factors through extensive research on typical starting salaries. Both companies offer competitive compensation packages, but Sipgate sweetens the deal with a fixed amount, the Role Fixum, added to all members of a role. With their employee-centric cultures and commitment to fair pay, both Buffer and Sipgate are setting a high bar for compensation practices in the modern workplace.
 
 ---
 
