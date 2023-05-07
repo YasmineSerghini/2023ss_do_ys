@@ -107,6 +107,8 @@ Every company and employee is different, so there might be some challenges or li
 
 ### Feedback
 
+</br>
+
 Buffer is all about being open and honest, especially when it comes to pay! </br>
 
 Some of the team members have shared what they think about the salary system, and it's been a mix of responses.
