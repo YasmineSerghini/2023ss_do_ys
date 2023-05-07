@@ -66,7 +66,7 @@ One notable feature of Buffer's salary system is its transparency. They're super
 
 <p align="column">
 <img align="center" src="\public\images\calculator.png" width="100"/>
-<img align="center" src=".\qrcode.jpeg" width="150"/> 
+<img align="right" src=".\qrcode.jpeg" width="150"/> 
 </p>
 
 ### How much would you make?
