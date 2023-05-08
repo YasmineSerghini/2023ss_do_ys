@@ -232,15 +232,7 @@ Overall, positively received when introduced in 2016
 
 ### Comparison
 
-Buffer
-
-- formulaic approach
-- considers factors like job function and location
-
-Sipgate
-
-- determines Role Factors
-- extensive research on typical starting salaries
+![B&S](Comparison.png)
 
 </br>
 
