@@ -234,7 +234,7 @@ Overall, positively received when introduced in 2016
 
 ![B&S](Comparison.png)
 
-Both companies are employee-centric and commit to fair pay. Sipgate however sweetens the deal with a fixed amount (Role Fixum).
+Both companies are employee-centric and commit to fair pay. Their cultures set a high bar for compensation practices in the modern workplace.
 
 ---
 
