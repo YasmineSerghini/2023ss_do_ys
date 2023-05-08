@@ -218,17 +218,14 @@ No communication that the salary formula wasn't appropriate for predicting futur
 
 ### Feedback
 
-Overall, positively received in 2016
+Overall, positively received when introduced in 2016
 </br>
 
-Many employees were relieved to finally understand how their salary was composed
-Fairness and automatic annual salary increases for everyone
-
-</br>
-
-Also a lot of criticism
-Introduction of a salary model should not be seen as completed project, but rather ongoing process
-Explaining, defending, and continuously developing the model
+|             Positive             |                   Criticism                    |
+| :------------------------------: | :--------------------------------------------: |
+| Understanding salary composition |      Introduction isn´t complete project       |
+|             Fairness             |                Ongoing process                 |
+|    Automatic annual increase     | Explaining, defending, continuously developing |
 
 ---
 
