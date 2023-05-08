@@ -218,7 +218,17 @@ No communication that the salary formula wasn't appropriate for predicting futur
 
 ### Feedback
 
-Overall, Sipgate's salary model was positively received when it was introduced in 2016. Many employees were relieved to finally understand how their personal salary was composed, and the fairness and automatic annual salary increases for everyone were praised. However, there was also a lot of criticism. Sipgate advises that the introduction of a salary model should not be seen as a completed project, but rather an ongoing process of explaining, defending, and continuously developing the model over the next few years.
+Overall, positively received in 2016
+</br>
+
+Many employees were relieved to finally understand how their salary was composed
+Fairness and automatic annual salary increases for everyone
+
+</br>
+
+Also a lot of criticism
+Introduction of a salary model should not be seen as completed project, but rather ongoing process
+Explaining, defending, and continuously developing the model
 
 ---
 
