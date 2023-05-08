@@ -234,8 +234,6 @@ Overall, positively received when introduced in 2016
 
 ![B&S](Comparison.png)
 
-</br>
-
 Both companies offer competitive compensation packages, but Sipgate sweetens the deal with a fixed amount (Role Fixum). Their employee-centric cultures and commitment to fair pay set a high bar for compensation practices in the modern workplace.
 
 ---
