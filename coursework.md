@@ -219,6 +219,7 @@ No communication that the salary formula wasn't appropriate for predicting futur
 ### Feedback
 
 Overall, positively received when introduced in 2016
+
 </br>
 
 |             Positive             |                   Criticism                    |
