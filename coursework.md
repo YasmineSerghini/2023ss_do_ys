@@ -134,7 +134,7 @@ Some of the team members have shared what they think about the salary system, an
 
 ## Sipgate
 
-Sipgate is a telecommunications company based in Germany that offers an awesome service that lets you talk to people over the internet.
+Sipgate is a telecommunications company based in Germany that offers a service to let you talk to people over the internet.
 
 </br>
 
